@@ -1,0 +1,16 @@
+﻿  CONEXION.cpp
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 2  POO y Mysql\Mysql_Producto\Mysql_Producto\CONEXION.cpp(1,10): fatal error C1083: No se puede abrir el archivo incluir: 'CONECTOR.h': No such file or directory
+  CRUD.cpp
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 2  POO y Mysql\Mysql_Producto\Mysql_Producto\CRUD.h(42,17): error C3861: 'Conexion': no se encontró el identificador
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 2  POO y Mysql\Mysql_Producto\Mysql_Producto\CRUD.h(67,17): error C3861: 'Conexion': no se encontró el identificador
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 2  POO y Mysql\Mysql_Producto\Mysql_Producto\CRUD.h(100,17): error C3861: 'Conexion': no se encontró el identificador
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 2  POO y Mysql\Mysql_Producto\Mysql_Producto\CRUD.h(128,17): error C3861: 'Conexion': no se encontró el identificador
+  Mysql_Producto.cpp
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 2  POO y Mysql\Mysql_Producto\Mysql_Producto\CRUD.h(42,17): error C3861: 'Conexion': no se encontró el identificador
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 2  POO y Mysql\Mysql_Producto\Mysql_Producto\CRUD.h(67,17): error C3861: 'Conexion': no se encontró el identificador
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 2  POO y Mysql\Mysql_Producto\Mysql_Producto\CRUD.h(100,17): error C3861: 'Conexion': no se encontró el identificador
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 2  POO y Mysql\Mysql_Producto\Mysql_Producto\CRUD.h(128,17): error C3861: 'Conexion': no se encontró el identificador
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 2  POO y Mysql\Mysql_Producto\Mysql_Producto\Mysql_Producto.cpp(131,11): error C2039: "crear_Producto": no es un miembro de "CRUD"
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 2  POO y Mysql\Mysql_Producto\Mysql_Producto\CRUD.h(9): message : vea la declaración de 'CRUD'
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 2  POO y Mysql\Mysql_Producto\Mysql_Producto\Mysql_Producto.cpp(142,10): error C2039: "leer_Producto": no es un miembro de "CRUD"
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 2  POO y Mysql\Mysql_Producto\Mysql_Producto\CRUD.h(9): message : vea la declaración de 'CRUD'
